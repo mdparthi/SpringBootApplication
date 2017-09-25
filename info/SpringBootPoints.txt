@@ -1,0 +1,30 @@
+- EJB Architecture
+- Servlet Lifecycle
+- Spring Initialization
+- How request processed in Tomcat Server
+- Reactive Programming ?
+- Lambda ?
+- dependency injection vs ioc ?
+
+
+Inversion of control
+- control is transferred ( Instantiation of objects),
+
+Compositon pattern ,
+Inheritance pattern, 
+
+constructor DI - https://docs.spring.io/spring/docs/current/spring-framework-reference/html/beans.html#beans-constructor-injection
+
+- @Resource, @Inject, @Autowired difference?
+- what happens when two bean name for the same object ?
+
+
+
+http://javapapers.com/
+
+- Json versions like faster xml
+- transitive dependency
+
+===== Exercise 25th Sep 2017 ====
+- what are profiles ? how to configure in spring boot?
+- configure livereload for spring boot ?

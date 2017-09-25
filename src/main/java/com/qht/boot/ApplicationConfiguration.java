@@ -8,8 +8,8 @@ import org.springframework.context.annotation.Import;
 import com.qht.boot.restcontroller.MyController;
 
 //opinated approach to load the necessary beans
-//@ComponentScan("com.qht.boot")
-@Import(MyController.class)
+@ComponentScan("com.qht.boot")
+//@Import(MyController.class)
 @EnableAutoConfiguration
 public class ApplicationConfiguration {
 
