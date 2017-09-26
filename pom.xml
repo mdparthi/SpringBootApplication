@@ -20,11 +20,10 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-
 		<!-- <dependency>
 			<groupid>org.springframework.boot</groupid>
 			<artifactid>spring-boot-devtools</artifactid>
-		</dependency> -->
+		</dependency>  -->
 
 	</dependencies>
 
