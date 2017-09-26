@@ -28,3 +28,5 @@ http://javapapers.com/
 ===== Exercise 25th Sep 2017 ====
 - what are profiles ? how to configure in spring boot?
 - configure livereload for spring boot ?
+
+- Why object creation should be inside Spring container ( eg. @Bean) and what benefits it gives?
