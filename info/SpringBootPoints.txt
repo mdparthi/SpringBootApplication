@@ -54,6 +54,16 @@ https://docs.angularjs.org/api/ngSanitize/service/$sanitize
 
 ==============================================================================================================
 
+======= Json Sample for  Person object =========
+
+{
+	"id": "7",
+	"firstName" : "Rocky",
+	"lastName" : "Star",
+	"money" : "34.54"
+}
+
+=======================
 ========== schema.sql example ===========
 
 create table person
@@ -69,4 +79,6 @@ insert into person values(1, 'Rock', 'Star', 546.55);
 insert into person values(2, 'Ravi', 'Star', 542.24);
 insert into person values(3, 'Break', 'Star', 845.24);
 insert into person values(4, 'New', 'Star', 784.35);
+
+======================================
 
