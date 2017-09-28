@@ -1,3 +1,6 @@
+
+pgawada@gmail.com
+====================
 - EJB Architecture
 - Servlet Lifecycle
 - Spring Initialization
@@ -82,3 +85,9 @@ insert into person values(4, 'New', 'Star', 784.35);
 
 ======================================
 
+What I understand ?
+
+- How to use Swagger
+- Difference of @Restcontroller and @Controller
+- SpringBoot mvc using Jasper
+- 
