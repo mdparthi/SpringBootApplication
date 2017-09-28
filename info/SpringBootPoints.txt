@@ -1,6 +1,11 @@
 
 pgawada@gmail.com
 
+check for Docker
+check for Oauthv2
+
+====================
+
 Spring Tool Suite 
 
 Version: 3.9.0.RELEASE
