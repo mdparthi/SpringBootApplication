@@ -1,5 +1,13 @@
 
 pgawada@gmail.com
+
+Spring Tool Suite 
+
+Version: 3.9.0.RELEASE
+Build Id: 201707061823
+Platform: Eclipse Oxygen (4.7.0)
+
+
 ====================
 - EJB Architecture
 - Servlet Lifecycle
@@ -53,6 +61,8 @@ https://docs.angularjs.org/api/ngSanitize/service/$sanitize
 - SOAP Webservices
 - Youtube tutorial Koushik ( Rest Api do's and dont's )
 - Spring lab boot app to build as war
+- Why you need inner class in Java ?
+- @Autowired vs @Inject ?
 
 
 ==============================================================================================================
@@ -90,4 +100,7 @@ What I understand ?
 - How to use Swagger
 - Difference of @Restcontroller and @Controller
 - SpringBoot mvc using Jasper
-- 
+- @Rsource , @Inject from JavaEE Package @Autowired is from Spring
+
+===================
+api.run.pivotal.io/52.206.5.198:443
